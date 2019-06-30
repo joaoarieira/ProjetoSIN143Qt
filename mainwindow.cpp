@@ -245,7 +245,7 @@ void MainWindow::on_actionQt_Creator_triggered()
 
 void MainWindow::on_actionSorveteria_triggered()
 {
-    QMessageBox::about(this, "C++ Sorveteria", "SIN143 - Laboratorio de Programacao.\nIntegrantes do grupo: \nJoao\nEliezer\nMarcel.");
+    QMessageBox::about(this, "C++ Sorveteria", "SIN143 - Laboratorio de Programacao.\nIntegrantes do grupo: \nJoao\nEzequiel\nMarcel.");
 }
 
 void MainWindow::on_actionProduto_triggered()
