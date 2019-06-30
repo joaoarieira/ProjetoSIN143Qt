@@ -31,7 +31,7 @@ LoginWindow::~LoginWindow()
 
 void LoginWindow::on_actionC_Sorveteria_triggered()
 {
-    QMessageBox::about(this, "C++ Sorveteria", "SIN143 - Laboratorio de Programacao.\nIntegrantes do grupo: \nJoao\nEliezer\nMarcel.");
+    QMessageBox::about(this, "C++ Sorveteria", "SIN143 - Laboratorio de Programacao.\nIntegrantes do grupo: \nJoao\nEzequiel\nMarcel.");
 }
 
 void LoginWindow::on_actionQt_Creator_triggered()
